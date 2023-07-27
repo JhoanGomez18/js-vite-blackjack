@@ -1,4 +1,4 @@
-# BlackJack Vite
+# BlackJack Vite Jhoan
 
 Pasos para ejecutar proyecto:
 
